@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is great stream",
+      "id": 1
+    },
+    {
+      "title": "New stream",
+      "description": "great stream",
+      "id": 2
+    },
+    {
+      "title": "New stream",
+      "description": "great stream",
+      "id": 3
+    },
+    {
+      "title": "Stream",
+      "description": "gaga streeam",
+      "id": 4
+    },
+    {
+      "title": "I created This streamsss",
+      "description": "This was made by meee!",
+      "id": 5
+    },
+    {
+      "title": "Yes this stream by meeeeeeee",
+      "description": "hahah lol",
+      "id": 6
+    },
+    {
+      "title": "Finaly this is workingggggggggggs",
+      "description": "Lets what happenddddddd",
+      "userId": "109394663989414715350",
+      "id": 9
+    }
+  ]
+}
